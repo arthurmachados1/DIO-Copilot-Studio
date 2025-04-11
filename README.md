@@ -1,5 +1,15 @@
 # DIO-Copilot-Studio
 Descrição de aprendizado do início do curso de Copilot Studio
 
-Primeiramente foi ensinado como criar uma conta no Microsoft 365 e acessar o copilotstudio.microsoft.com onde iremos gerar nossos Copilot, logo após aprendi um pouco mais sobre a interface dele e como criar um Copilot com base em um Modelo, com base em uma descrição com IA e também um Copilot em branco.
+No início, aprendi como criar uma conta no Microsoft 365 e acessar a plataforma do Copilot Studio. A partir disso, foram apresentados os primeiros passos para a criação de um Copilot, explorando as principais funcionalidades da interface.
+
+Aprendi a criar um Copilot de três formas diferentes:
+
+A partir de um modelo pronto,
+
+Com base em uma descrição gerada por IA,
+
+E também iniciando um Copilot em branco, totalmente personalizado.
+
+Essa parte do curso me ajudou a entender como usar a ferramenta e por onde começar.
 
